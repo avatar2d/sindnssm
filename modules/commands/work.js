@@ -28,7 +28,7 @@ module.exports.languages = {
         "job11": "bán hàng trực tuyến",
         "job12": "nội trợ",
         "job13": 'bán "hoa"',
-        "job14": "tìm jav/hentai code cho SpermLord",
+        "job14": "tìm jav/hentai code cho Huy Đoàn",
         "job15": "chơi Yasuo và gánh đội của bạn"
     },
     "en": {
@@ -47,7 +47,7 @@ module.exports.languages = {
         "job11": "online seller",
         "job12": "housewife",
         "job13": 'sell "flower"',
-        "job14": "find jav/hentai code for SpermLord",
+        "job14": "find jav/hentai code for TriggerFish",
         "job15": "play Yasuo and carry your team"
     }
 }
